@@ -1,0 +1,2 @@
+# javascript-awesome
+learning javascript
